@@ -10,6 +10,7 @@ supporters:
 - nfdi
 - dfg
 - unifreiburg
+- nfdibioimage
 subsites: [eu, freiburg]
 ---
 
