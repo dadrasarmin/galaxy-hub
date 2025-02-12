@@ -3,7 +3,11 @@ title: 'Freiburg Galaxy team at the EGI 2024'
 date: "2024-10-10"
 tease: "Members from the Freiburg Galaxy team traveled to Lecce, Italy to participate and present the EuroScienceGateway (ESG) project at the EGI2024 meeting from 1st-3rd October."
 hide_tease: false
-subsites: [all-eu]
+tags: [esg]
+supporters:
+- eurosciencegateway
+- unifreiburg
+subsites: [all-eu, global, esg]
 main_subsite: eu
 ---
 
